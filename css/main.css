@@ -1,0 +1,35 @@
+html {
+  font-size: 10px; }
+
+body {
+  color: #000; }
+
+.container {
+  margin: 0 auto;
+  max-width: 1170px; }
+
+.page-heading h1 {
+  text-align: center; }
+
+.tabs {
+  list-style-type: none; }
+  .tabs li {
+    color: #666;
+    font-size: 2rem;
+    border: 1px solid #000;
+    height: 20px;
+    display: inline-block;
+    min-width: 100px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: center; }
+    .tabs li.active {
+      color: #fff;
+      background-color: #000; }
+
+.main-content {
+  height: 500px;
+  width: auto;
+  border: 1px solid green; }
+
+/*# sourceMappingURL=main.css.map */

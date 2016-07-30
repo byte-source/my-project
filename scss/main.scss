@@ -1,0 +1,45 @@
+html{
+	font-size: 10px;
+}
+
+body{
+	color: #000;
+}
+
+$primaryColor: #666;
+$antiPrimaryColor: #fff;
+$primaryFontSize: 1.4rem;
+$primaryTabsBorderColor: #000;
+.container{
+	margin: 0 auto;
+	max-width: 1170px;
+}
+.page-heading h1{
+	text-align: center;
+}
+.tabs{
+	list-style-type: none;
+
+	li{
+		color:$primaryColor;
+		font-size: 2rem;
+		border: 1px solid $primaryTabsBorderColor;
+		height: 20px;
+		display: inline-block;
+		min-width: 100px;
+		margin-right: 10px;
+		padding: 10px;
+		text-align: center;
+
+		&.active{
+			color:$antiPrimaryColor;
+			background-color: #000;
+		}
+	}
+}
+
+.main-content{
+	height: 500px;
+	width: auto;
+	border: 1px solid green;
+}

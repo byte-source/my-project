@@ -1,0 +1,28 @@
+{
+	"tabs":[
+		{
+			"name":"goals",
+			"title":"open goals",
+			"active":true,
+			"target":"_self",
+			"identifier":"goals",
+			"url":"javascript:void(0);"
+		},
+		{
+			"name":"EYP Conversations",
+			"title":"open EYP Conversations",
+			"active":false,
+			"target":"_self",
+			"identifier":"eyp",
+			"url":"javascript:void(0);"
+		},
+		{
+			"name":"skills",
+			"title":"open skills",
+			"active":false,
+			"target":"_self",
+			"identifier":"skills",
+			"url":"javascript:void(0);"
+		}
+	]
+}
