@@ -1,6 +1,6 @@
 {
   "name": "aplha",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "alpha package",
   "main": "index.js",
   "private": true,

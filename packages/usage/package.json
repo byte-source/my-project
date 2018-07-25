@@ -1,6 +1,6 @@
 {
   "name": "usage",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "alpha": "1.0.0",
-    "beta": "^0.0.1"
+    "beta": "^0.0.3"
   }
 }
