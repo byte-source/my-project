@@ -1,15 +1,15 @@
 {
-  "name": "usage",
-  "version": "0.0.3",
+  "name": "@test/usage",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "server index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alpha": "1.0.0",
-    "beta": "^0.0.3"
+    "@test/alpha": "1.0.0",
+    "@test/beta": "^1.0.0"
   }
 }
