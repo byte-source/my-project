@@ -1,6 +1,6 @@
 {
-  "name": "@test/aplha",
-  "version": "1.0.0",
+  "name": "@test/alpha",
+  "version": "1.0.1",
   "description": "alpha package",
   "main": "index.js",
   "scripts": {
